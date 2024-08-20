@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 0.2.5b
+_commit: 0.2.5b-3-gc4df27a
 _src_path: gh:epics-containers/services-template-helm
 cluster_name: argus
 cluster_namespace: esq51579

@@ -1,5 +1,0 @@
-epics-pvcs:
-  # the location where the IOCs will run
-  location: bl02t
-  # the name of the repository in which the IOC is grouped
-  ioc_group: t02
