@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.2.5b
+_src_path: gh:epics-containers/services-template-helm
+cluster_name: argus
+cluster_namespace: esq51579
+cluster_type: dls_cluster
+description: t02 IOC Instances and Services
+git_platform: github.com
+github_org: marcelldls
+ioc_group: t02
+location: bl02t
+logging_url: https://graylog2.diamond.ac.uk/search?rangetype=relative&fields=message%2Csource&width=1489&highlightMessage=&relative=172800&q=pod_name%3A{service_name}*
+repo_uri: https://github.com/marcelldls/t02-services
